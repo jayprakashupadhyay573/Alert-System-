@@ -1,0 +1,21 @@
+user_id,name,country,state,role,domain,app,usage_time,session_count,avg_session_time,alert_stage,alert_sent,alert_message
+IN1,Rahul,India,Bihar,Student,Engineering,Flipkart,145,8,18,FINAL_ALERT,1,"‼️ Rahul, ab aap bahut zyada time se Flipkart use kar rahe ho. Kripya ab band kijiye aur apne Engineering par focus kijiye."
+IN2,Amit,India,Madhya Pradesh,Student,UPSC,Instagram,151,8,18,FINAL_ALERT,1,"‼️ Amit, ab aap bahut zyada time se Instagram use kar rahe ho. Kripya ab band kijiye aur apne UPSC par focus kijiye."
+IN3,Priya,India,Delhi,Student,Medical,WhatsApp,119,5,23,WARNING,0,"⚠️ Priya, aapka usage high ho raha hai. Thoda control karein."
+IN4,Neha,India,Maharashtra,Entrepreneur,Business,YouTube,127,5,25,FINAL_ALERT,1,"‼️ Neha, ab aap bahut zyada time se YouTube use kar rahe ho. Kripya ab band kijiye aur apne Business par focus kijiye."
+IN5,Ravi,India,UP,Farmer,Agriculture,Instagram,96,2,48,SAFE,0,
+IN6,Suresh,India,Gujarat,Student,Engineering,YouTube,154,6,25,FINAL_ALERT,1,"‼️ Suresh, ab aap bahut zyada time se YouTube use kar rahe ho. Kripya ab band kijiye aur apne Engineering par focus kijiye."
+IN7,Pooja,India,Rajasthan,Student,Teaching,WhatsApp,147,7,21,FINAL_ALERT,1,"‼️ Pooja, ab aap bahut zyada time se WhatsApp use kar rahe ho. Kripya ab band kijiye aur apne Teaching par focus kijiye."
+IN8,Anjali,India,Punjab,Student,Nursing,Instagram,88,2,44,SAFE,0,
+IN9,Karan,India,Haryana,Entrepreneur,Startup,WhatsApp,130,5,26,FINAL_ALERT,1,"‼️ Karan, ab aap bahut zyada time se WhatsApp use kar rahe ho. Kripya ab band kijiye aur apne Startup par focus kijiye."
+IN10,Vikas,India,West Bengal,Student,Banking,Instagram,142,6,23,FINAL_ALERT,1,"‼️ Vikas, ab aap bahut zyada time se Instagram use kar rahe ho. Kripya ab band kijiye aur apne Banking par focus kijiye."
+US1,John,US,California,Student,Engineering,Amazon,120,3,40,WARNING,0,"⚠️ John, aapka usage high ho raha hai. Thoda control karein."
+US2,Emma,US,Texas,Student,Medical,Netflix,82,5,16,SAFE,0,
+US3,Mike,US,Florida,Entrepreneur,Business,Spotify,119,3,39,WARNING,0,"⚠️  Mike, aapka usage high ho raha hai. Thoda control karein."
+US4,Sophia,US,New York,Student,Law,TikTok,84,4,21,SAFE,0,
+US5,David,US,Illinois,Farmer,Agriculture,Spotify,74,7,10,SAFE,0,
+US6,Olivia,US,Ohio,Student,Engineering,Netflix,84,2,42,SAFE,0,
+US7,James,US,Georgia,Student,Finance,Amazon,145,4,36,FINAL_ALERT,1,"‼️ James, ab aap bahut zyada time se Amazon use kar rahe ho. Kripya ab band kijiye aur apne Finance par focus kijiye."
+US8,Isabella,US,Arizona,Student,Design,TikTok,91,8,11,SAFE,0,
+US9,William,US,Washington,Entrepreneur,Startup,Snapchat,124,7,17,FINAL_ALERT,1,"‼️ William, ab aap bahut zyada time se Snapchat use kar rahe ho. Kripya ab band kijiye aur apne Startup par focus kijiye."
+US10,Mason,US,Nevada,Student,IT,Spotify,155,4,38,FINAL_ALERT,1,"‼️ Mason, ab aap bahut zyada time se Spotify use kar rahe ho. Kripya ab band kijiye aur apne IT par focus kijiye."
